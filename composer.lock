@@ -11,8 +11,8 @@
     "packages-dev": [],
     "aliases": [],
     "stability-flags": [],
-    "platform": [
-        "php": "5.3.5"
-    ],
+    "platform": {
+        "php": "7.0"
+    },
     "platform-dev": []
 }
