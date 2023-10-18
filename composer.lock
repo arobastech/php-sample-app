@@ -8,8 +8,10 @@
     "packages": [
 
     ],
-    "platform": {
-        "php": "^7.3.0"
+    "config": {
+        "platform": {
+            "php": "5.3.5"
+        }
     },
     "packages-dev": [],
     "aliases": [],
