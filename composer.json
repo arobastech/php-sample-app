@@ -2,10 +2,8 @@
     "name": "codefresh-contrib/php-composer-sample-app",
     "description": "Example php project for Codefresh pipelines",
     "type": "project",
-    "config": {
-        "platform": {
-            "php": "^7.3.0"
-        }
+    "platform": {
+        "php": "^7.3.0"
     },
     "authors": [
         {
