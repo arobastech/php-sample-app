@@ -2,11 +2,6 @@
     "name": "arobastech/php-sample-app",
     "description": "Example of php project",
     "type": "project",
-    "config": {
-        "platform": {
-            "php": "5.3.5"
-        }
-    },
     "authors": [
         {
             "name": "Amine EL MAHI",
