@@ -3,7 +3,7 @@
     "description": "Example php project for Codefresh pipelines",
     "type": "project",
     "require": {
-        "php": "^7.4",
+        "php": "7.4"
     },
     "authors": [
         {
