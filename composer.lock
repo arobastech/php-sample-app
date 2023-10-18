@@ -11,7 +11,8 @@
             "version": "6.8.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/PHPMailer/PHPMailer.git"
+                "url": "https://github.com/PHPMailer/PHPMailer.git",
+                "reference": "3dcf38ca72b158baf0bc245e9184d3fdffa9c46f"
             },
             "require": {
                 "php": ">=5.5.0"
