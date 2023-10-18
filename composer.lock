@@ -5,9 +5,15 @@
         "This file is @generated automatically"
     ],
     "content-hash": "1073a941277c3b2888d80263edac77ef",
-    "require": {
-        "php": "7.2.28"
-    },
+    "packages": [
+        {
+            "name": "phpmailer/phpmailer",
+            "version": "6.8.1",
+            "require": {
+                "php": "7.4"
+            }
+        }
+    ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
