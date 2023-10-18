@@ -2,7 +2,9 @@
     "name": "codefresh-contrib/php-composer-sample-app",
     "description": "Example php project for Codefresh pipelines",
     "type": "project",
-    "php": "^7.2.28",
+    "require": {
+        "php": "7.2.28"
+    },
     "authors": [
         {
             "name": "Kostis Kapelonis",
