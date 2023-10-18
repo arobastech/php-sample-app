@@ -3,6 +3,7 @@
     "description": "Example php project for Codefresh pipelines",
     "type": "project",
     "require": {
+        "php": "^7.4",
         "monolog/monolog": "^1.24",
         "phpunit/php-timer": "^1.0.9"
     },
