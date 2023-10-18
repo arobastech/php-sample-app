@@ -8,6 +8,9 @@
     "packages": [
 
     ],
+    "platform": {
+        "php": "^7.3.0"
+    }
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
