@@ -1,6 +1,6 @@
 {
-    "name": "codefresh-contrib/php-composer-sample-app",
-    "description": "Example php project for Codefresh pipelines",
+    "name": "arobastech/php-sample-app",
+    "description": "Example of php project",
     "type": "project",
     "config": {
         "platform": {
@@ -9,8 +9,8 @@
     },
     "authors": [
         {
-            "name": "Kostis Kapelonis",
-            "email": "kostis@codefresh.io"
+            "name": "Amine EL MAHI",
+            "email": "amine@arobas.ma"
         }
     ]
 }
