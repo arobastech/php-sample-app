@@ -9,6 +9,10 @@
         {
             "name": "phpmailer/phpmailer",
             "version": "6.8.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/PHPMailer/PHPMailer.git",
+            },
             "require": {
                 "php": ">=5.5.0"
             }
