@@ -10,7 +10,7 @@
             "name": "phpmailer/phpmailer",
             "version": "6.8.1",
             "require": {
-                "php": "7.4.0"
+                "php": ">=5.5.0"
             }
         }
     ],
