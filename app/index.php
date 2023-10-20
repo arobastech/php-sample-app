@@ -1,5 +1,7 @@
 <?php
 
-echo "Under construction...";
+echo "Under construction...<br /><br />";
+
+phpinfo();
 
 ?>
