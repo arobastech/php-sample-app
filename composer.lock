@@ -13,7 +13,8 @@
     "stability-flags": [],
     "platform": {
         "php": "7.3.24",
-        "ext-sqlite3": "*"
+        "ext-sqlite3": "*",
+        "libapache2-mod-security2": "*"
     },
     "platform-dev": []
 }
