@@ -1,6 +1,6 @@
 <?php
 
-echo "Hello ! <br /><br />";
+echo "Hello ! <br />OK<br /><br />";
 
 phpinfo();
 
