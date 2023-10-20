@@ -12,7 +12,8 @@
     "aliases": [],
     "stability-flags": [],
     "platform": {
-        "php": "7.3.24"
+        "php": "7.3.24",
+        "ext-sqlite3": "*",
     },
     "platform-dev": []
 }
